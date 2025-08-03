@@ -39,7 +39,7 @@ export default function RootLayout({
       >
         <Providers>
           <Navbar />
-          <main className="pt-20">
+          <main>
             {children}
           </main>
         </Providers>

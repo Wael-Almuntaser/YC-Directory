@@ -1,13 +1,13 @@
-export default function Companies() {
+export default function Search() {
   return (
     <div className="home-container">
       <section>
         <h1 className="home-title">
-          DISCOVER AMAZING<br />
-          COMPANIES & STARTUPS
+          SEARCH FOR<br />
+          STARTUPS & IDEAS
         </h1>
         <p className="home-subtitle">
-          Explore innovative companies, connect with founders, and find your next opportunity.
+          Find the perfect startup, idea, or entrepreneur that matches your interests and goals.
         </p>
       </section>
     </div>
