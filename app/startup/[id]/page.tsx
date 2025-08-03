@@ -35,7 +35,7 @@ export default function StartupDetails() {
             id: 1,
             title: "EcoTrack",
             description: "A mobile app that helps users track and reduce their carbon footprint through daily activities and sustainable choices.",
-            date: "20 May, 2023",
+            date: "20 May, 2025",
             views: 230,
             category: "environmental",
             tags: ["mobile", "sustainability", "carbon footprint"]
@@ -44,7 +44,7 @@ export default function StartupDetails() {
             id: 2,
             title: "SmartLearn",
             description: "AI-powered learning platform that adapts to individual student needs and provides personalized educational content.",
-            date: "18 May, 2023",
+            date: "18 May, 2025",
             views: 185,
             category: "education",
             tags: ["AI", "education", "personalized learning"]
@@ -53,7 +53,7 @@ export default function StartupDetails() {
             id: 3,
             title: "HealthFlow",
             description: "Digital health platform connecting patients with healthcare providers for seamless telemedicine experiences.",
-            date: "15 May, 2023",
+            date: "15 May, 2025",
             views: 312,
             category: "healthcare",
             tags: ["healthcare", "telemedicine", "digital health"]
@@ -62,7 +62,7 @@ export default function StartupDetails() {
             id: 4,
             title: "FinTechPro",
             description: "Revolutionary financial technology solution for small businesses to manage payments and cash flow efficiently.",
-            date: "12 May, 2023",
+            date: "12 May, 2025",
             views: 156,
             category: "fintech",
             tags: ["fintech", "payments", "small business"]
@@ -71,7 +71,7 @@ export default function StartupDetails() {
             id: 5,
             title: "FoodTech",
             description: "Innovative food delivery platform using AI to optimize routes and reduce delivery times by 40%.",
-            date: "10 May, 2023",
+            date: "10 May, 2025",
             views: 278,
             category: "food",
             tags: ["food delivery", "AI", "logistics"]
@@ -80,7 +80,7 @@ export default function StartupDetails() {
             id: 6,
             title: "GreenEnergy",
             description: "Sustainable energy solutions for homes and businesses using advanced solar and wind technology.",
-            date: "8 May, 2023",
+            date: "8 May, 2025",
             views: 194,
             category: "energy",
             tags: ["renewable energy", "solar", "wind power"]

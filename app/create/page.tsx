@@ -19,7 +19,7 @@ export default function CreateArticle() {
     pitch: ""
   });
 
-  // إذا لم يكن المستخدم مسجل دخول، توجيه للصفحة الرئيسية
+
   if (status === "loading") {
     return (
       <div className="loading-container">
@@ -41,7 +41,7 @@ export default function CreateArticle() {
     try {
       // إنشاء مقالة جديدة
       const newArticle = {
-        id: Date.now(), // استخدام timestamp كـ ID
+        id: Date.now(), 
         title: formData.title,
         description: formData.description,
         category: formData.category,

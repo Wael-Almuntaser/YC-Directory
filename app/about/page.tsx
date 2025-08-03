@@ -106,7 +106,7 @@ export default function About() {
           <h2>Our Story</h2>
           <div className="story-content">
             <p>
-              Founded in 2023, YC Directory emerged from a simple observation: brilliant startup ideas often struggle to find the right audience and resources. 
+              Founded in 2025, YC Directory emerged from a simple observation: brilliant startup ideas often struggle to find the right audience and resources. 
               Our founders experienced this challenge firsthand while building their own startups.
             </p>
             <p>
